@@ -7,7 +7,6 @@ To analyze Superstore sales data using Power BI and uncover key insights related
 - Superstore_sample.csv (Dataset)
 - SuperstoreDashboard.pbix (Power BI file)
 - Dashboard screenshots
-- PDF Report (Optional)
 
 ## 📌 Key Insights:
 - Tables have high sales but negative profits.
